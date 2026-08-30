@@ -1,0 +1,28 @@
+D:\Project\QuanLyMang\QuanLyMang\bin\Debug\net8.0\QuanLyMang.exe
+D:\Project\QuanLyMang\QuanLyMang\bin\Debug\net8.0\QuanLyMang.deps.json
+D:\Project\QuanLyMang\QuanLyMang\bin\Debug\net8.0\QuanLyMang.runtimeconfig.json
+D:\Project\QuanLyMang\QuanLyMang\bin\Debug\net8.0\QuanLyMang.dll
+D:\Project\QuanLyMang\QuanLyMang\bin\Debug\net8.0\QuanLyMang.pdb
+D:\Project\QuanLyMang\QuanLyMang\obj\Debug\net8.0\QuanLyMang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\QuanLyMang\QuanLyMang\obj\Debug\net8.0\QuanLyMang.AssemblyInfoInputs.cache
+D:\Project\QuanLyMang\QuanLyMang\obj\Debug\net8.0\QuanLyMang.AssemblyInfo.cs
+D:\Project\QuanLyMang\QuanLyMang\obj\Debug\net8.0\QuanLyMang.csproj.CoreCompileInputs.cache
+D:\Project\QuanLyMang\QuanLyMang\obj\Debug\net8.0\QuanLyMang.dll
+D:\Project\QuanLyMang\QuanLyMang\obj\Debug\net8.0\refint\QuanLyMang.dll
+D:\Project\QuanLyMang\QuanLyMang\obj\Debug\net8.0\QuanLyMang.pdb
+D:\Project\QuanLyMang\QuanLyMang\obj\Debug\net8.0\QuanLyMang.genruntimeconfig.cache
+D:\Project\QuanLyMang\QuanLyMang\obj\Debug\net8.0\ref\QuanLyMang.dll
+C:\Users\Administrator\Downloads\bt\New folder\QuanLyMang\QuanLyMang\bin\Debug\net8.0\QuanLyMang.exe
+C:\Users\Administrator\Downloads\bt\New folder\QuanLyMang\QuanLyMang\bin\Debug\net8.0\QuanLyMang.deps.json
+C:\Users\Administrator\Downloads\bt\New folder\QuanLyMang\QuanLyMang\bin\Debug\net8.0\QuanLyMang.runtimeconfig.json
+C:\Users\Administrator\Downloads\bt\New folder\QuanLyMang\QuanLyMang\bin\Debug\net8.0\QuanLyMang.dll
+C:\Users\Administrator\Downloads\bt\New folder\QuanLyMang\QuanLyMang\bin\Debug\net8.0\QuanLyMang.pdb
+C:\Users\Administrator\Downloads\bt\New folder\QuanLyMang\QuanLyMang\obj\Debug\net8.0\QuanLyMang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\bt\New folder\QuanLyMang\QuanLyMang\obj\Debug\net8.0\QuanLyMang.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\bt\New folder\QuanLyMang\QuanLyMang\obj\Debug\net8.0\QuanLyMang.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\bt\New folder\QuanLyMang\QuanLyMang\obj\Debug\net8.0\QuanLyMang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\bt\New folder\QuanLyMang\QuanLyMang\obj\Debug\net8.0\QuanLyMang.dll
+C:\Users\Administrator\Downloads\bt\New folder\QuanLyMang\QuanLyMang\obj\Debug\net8.0\refint\QuanLyMang.dll
+C:\Users\Administrator\Downloads\bt\New folder\QuanLyMang\QuanLyMang\obj\Debug\net8.0\QuanLyMang.pdb
+C:\Users\Administrator\Downloads\bt\New folder\QuanLyMang\QuanLyMang\obj\Debug\net8.0\QuanLyMang.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\bt\New folder\QuanLyMang\QuanLyMang\obj\Debug\net8.0\ref\QuanLyMang.dll
